@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeTracker", "TimeTracker\TimeTracker.csproj", "{8C6F3231-47C5-46F6-BB5E-26E098615BAA}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Database", "Database\Database.sqlproj", "{D5D08F59-2139-4465-B491-7BA1FE8D9587}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C6F3231-47C5-46F6-BB5E-26E098615BAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C6F3231-47C5-46F6-BB5E-26E098615BAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C6F3231-47C5-46F6-BB5E-26E098615BAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C6F3231-47C5-46F6-BB5E-26E098615BAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5D08F59-2139-4465-B491-7BA1FE8D9587}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5D08F59-2139-4465-B491-7BA1FE8D9587}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5D08F59-2139-4465-B491-7BA1FE8D9587}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D5D08F59-2139-4465-B491-7BA1FE8D9587}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5D08F59-2139-4465-B491-7BA1FE8D9587}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5D08F59-2139-4465-B491-7BA1FE8D9587}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D9D23F4-E4D4-4511-80C2-EFBDF1CABB9E}
+	EndGlobalSection
+EndGlobal
